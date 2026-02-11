@@ -8,7 +8,7 @@ By default, Arduino only knows about its own boards (Uno, Mega, etc.). You need 
 1. Open Arduino IDE.
 2. Go to File > Preferences.
 3. Look for the field "Additional Boards Manager URLs".
-4. Paste this URL into the box:http://arduino.esp8266.com/stable/package_esp8266com_index.json(If you already have a URL there, separate them with a comma).
+4. Paste this URL into the box: http://arduino.esp8266.com/stable/package_esp8266com_index.json (If you already have a URL there, separate them with a comma).
 5. Click OK.
 
 ## Step 2: Download the Board Files
