@@ -20,3 +20,10 @@ By default, Arduino only knows about its own boards (Uno, Mega, etc.). You need 
 ## Step 3: Install the Libraries
 1. TinyGPSPlus (by Mikal Hart)
 2. ArduinoJson (by Benoit Blanchon)
+
+# Hardware Setup
+1. Power nodeMCU with microUSB
+2. Connect Vcc of GPS Module to Vin
+3. Connect Tx pin of GPS Module to D6 Pin of NodeMCU
+4. Connect Rx pin of GPS Module to D5 Pin of NodeMCU
+5. Connect Antenna to GPS Module
